@@ -7,7 +7,7 @@
 ## Education
 Bachelor of Technology
 Computers and Communication Engineering
-@ Manipal University Jaipur (2020-2024)
+Manipal University Jaipur (2020-2024)
 
 
 
