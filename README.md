@@ -5,7 +5,7 @@
 #### Technical Skills: Python, SQL, PowerBI, Excel, Data Analysis, ML
 
 ## Education
-- B.Tech. | Computers and Communication Engineering | 2020-2024
+- B.Tech. (Computers and Communication Engineering) | 2020-2024
 
 ## Internships
 **AI Software Developer Intern @ Vaionex Corporation (_Jan 2024 - Present_)**
