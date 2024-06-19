@@ -1,5 +1,7 @@
 # Data Science Fresher 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Technical Skills: Python, SQL, PowerBI, Excel, Data Analysis & Visualization, Machine Learning
 
 ## Education
@@ -18,7 +20,10 @@
 ### Personal Finances Dashboard
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Developed an interactive personal finance dashboard using PowerBI for real-time tracking of income, expenses, savings, and investments.
+- Integrated data from multiple sources, including bank statements and investment accounts, ensuring accurate financial information.
+- Designed advanced data visualizations and DAX calculations to analyze spending patterns and financial goals.
+- Optimized dashboard performance and user experience through data modeling and intuitive navigation.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
