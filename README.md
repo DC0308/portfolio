@@ -7,12 +7,12 @@
 
 ## Internships
 **AI Software Developer Intern @ Vaionex Corporation (_Jan 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Recently started as an intern in **AI and Data Engineering team** at a budding Google cloud partnered, AI and Blockchain startup based out of New Jersey, USA
+- Working on **ComfyUI** to test and create GUI based **Stable Diffusion image generation** models
   
 **Marketing Analytics Intern @ SBI Card and Payments Services Ltd. (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Wrote a **Python** program to **automate MID-TID Campaign Cashback calculations** by taking input of defined macros through a config file to reduce manual work done by employees on Excel and SAS by **4-5 hours**
+- Migration of process to **Pandas** in python instead of SAS and excel provides approximately **10%** decrease in code execution time on larger datasets
 
 ## Projects
 ### Personal Finances Dashboard
