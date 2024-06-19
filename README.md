@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Technical Skills: Python, SQL, PowerBI, Excel, Data Analysis & Visualization, Machine Learning
+#### Technical Skills: Python, SQL, PowerBI, Excel, Data Analysis, ML
 
 ## Education
 - B.Tech. | Computers and Communication Engineering | 2020-2024
