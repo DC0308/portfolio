@@ -1,7 +1,5 @@
 # Data Science Fresher 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 #### Technical Skills: Python, SQL, PowerBI, Excel, Data Analysis, ML
 
 ## Education
@@ -18,45 +16,43 @@
 
 ## Projects
 ### Personal Finances Dashboard
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Finances Dashboard Link](https://www.mdpi.com/1424-8220/22/8/3048)
 
-- Developed an interactive personal finance dashboard using PowerBI for real-time tracking of income, expenses, savings, and investments.
+- Developed an interactive personal finance dashboard using **PowerBI** for real-time tracking of income, expenses, savings, and investments.
 - Integrated data from multiple sources, including bank statements and investment accounts, ensuring accurate financial information.
-- Designed advanced data visualizations and DAX calculations to analyze spending patterns and financial goals.
-- Optimized dashboard performance and user experience through data modeling and intuitive navigation.
+- Designed advanced **data visualizations** and DAX calculations to analyze spending patterns and financial goals.
+- Optimized dashboard performance and user experience through **data modeling** and intuitive navigation.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Finance Dashboard pic](/assets/img/eeg_band_discovery.jpeg)
 
 ### Customer Churn Prediction 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Churn Link](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Developed a machine learning model using **Python** to predict customer churn with an accuracy of **85%.**
+- Analyzed customer data from various sources, identifying **key features** influencing churn rates.
+- Implemented **data preprocessing** techniques, including handling missing values and feature scaling, to improve model performance.
+- Utilized **data visualization** tools to present insights and actionable recommendations to stakeholders, reducing churn by **10%**.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Churn pic](/assets/img/eeg_band_discovery.jpeg)
 
 ### Movie Recommender System
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Link to Project](https://movie-recommender-dc.streamlit.app/)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Developed a Python-based Movie Recommender System web app using Pandas, NumPy, scikit-learn, streamlit
+- Implemented content-based recommendation algorithm to suggest 5 movies based on user input
+- Utilized tags vectorization technique for feature extraction and personalized recommendations
+  
+![Movie Recommender Pic](/assets/img/eeg_band_discovery.jpeg)
 
 ### Uber Data Analysis 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Link to Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Analyzed Uber New York data using Python and libraries like Pandas, NumPy, Matplotlib, and Plotly
+- Identified various problem statements like rush hours, month-wise bookings etc to draw inferences
+- Developed visually appealing charts and heat maps for effective data presentation
+- Ensured data integrity through EDA, manipulation and preprocessing techniques on datasets
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+![Uber Pic](/assets/img/eeg_band_discovery.jpeg)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
