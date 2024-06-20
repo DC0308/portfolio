@@ -28,8 +28,10 @@ Manipal University Jaipur (2020-2024)
 ## Projects
 
 ### Realtime Voting System
-[Realtime Voting System Github](https://github.com/DC0308/realtime-voting-system)  
+[Realtime Voting System Github](https://github.com/DC0308/realtime-voting-system)
+<br>
 ![Picture](path_to_your_image/example.png)
+<br>
 
 - Developed real-time voting system with Docker Compose, Kafka, PySpark, Streamlit, and PostgreSQL, processing and visualizing data in real-time.
 - Utilized Kafka for 100% real-time data streaming and PySpark for instant data processing, ensuring accurate vote counts.
@@ -38,7 +40,9 @@ Manipal University Jaipur (2020-2024)
 
 ### Bank Customer Churn Analysis
 [Github Link](https://github.com/DC0308/bank-churn-rate-analysis-powerbi/tree/main)
+<br>
 [File Link](https://github.com/DC0308/bank-churn-rate-analysis-powerbi/blob/main/Customer%20Churn%20Analysis.pdf)
+<br>
 ![Churn](path_to_your_image/churn.png)
 
 - Developed and Deployed interactive Power BI dashboard for Customer Churn Analysis, visualizing key metrics and trends to identify factors influencing customer attrition.
@@ -47,7 +51,9 @@ Manipal University Jaipur (2020-2024)
 
 ### Movie Recommender System
 [Github Link](https://github.com/DC0308/movie-recommender-system)
+<br>
 [Application Link](https://movie-recommender-dc.streamlit.app/)
+<br>
 ![Movie Recommender](path_to_your_image/movie_recommender.png)
 
 - Developed a Python-based Movie Recommender System web app using Pandas, NumPy, scikit-learn, and Streamlit.
@@ -56,7 +62,9 @@ Manipal University Jaipur (2020-2024)
 
 ### Uber Data Analysis
 [Github Link](https://github.com/DC0308/Uber-Data-Analysis-using-Python/tree/main)
+<br>
 [File Link](https://drive.google.com/file/d/1mHRD2WVQ2oPlR--xHZseTf5k6YnJKPPT/view?usp=sharing)
+<br>
 ![Uber](path_to_your_image/uber.png)
 
 - Analyzed Uber New York data using Python and libraries like Pandas, NumPy, Matplotlib, and Plotly.
