@@ -1,96 +1,67 @@
-# Data Science Fresher 
-  
-#### Technical Skills: Python, SQL, PowerBI, Excel, Data Analysis, ML
-  
-  
-  
+# Data Science Fresher
+
+## Technical Skills
+- **Python**
+- **SQL**
+- **PowerBI**
+- **Excel**
+- **Data Analysis**
+- **Machine Learning**
+
 ## Education
-Bachelor of Technology  
+**Bachelor of Technology**  
 Computers and Communication Engineering  
-Manipal University Jaipur (2020-2024)  
-  
-  
-  
+Manipal University Jaipur (2020-2024)
+
 ## Internships
-  
-  
-**AI Software Developer Intern @ Vaionex Corporation (_Jan 2024 - Present_)**
-<p align="justify">
-<ul>
-<li> Recently started as an intern in AI and Data Engineering team at a budding Google cloud partnered, AI and Blockchain startup based out of New Jersey, USA </li>
-<li> Working on ComfyUI to test and create GUI based Stable Diffusion image generation models </li>
-</ul>
-</p>
 
-  
-**Marketing Analytics Intern @ SBI Card and Payments Services Ltd. (_December 2020 - Present_)**
-<p align="justify">
-<ul>
-<li> Wrote a Python program to automate MID-TID Campaign Cashback calculations by taking input of defined macros through a config file to reduce manual work done by employees on Excel and SAS by 4-5 hours </li>
-<li> Migration of process to Pandas in python instead of SAS and excel provides approximately 10% decrease in code execution time on larger datasets </li>
-</ul>
-</p>
-  
-  
-  
+### AI Software Developer Intern @ Vaionex Corporation
+**January 2024 - Present**  
+- Recently started as an intern in the AI and Data Engineering team at a budding Google cloud partnered AI and Blockchain startup based out of New Jersey, USA.
+- Working on ComfyUI to test and create GUI-based Stable Diffusion image generation models.
+
+### Marketing Analytics Intern @ SBI Card and Payments Services Ltd.
+**December 2020 - Present**  
+- Developed a Python solution to automate MID-TID Campaign Cashback calculations by taking input of defined macros through a config file to reduce manual work done by employees on Excel and SAS by 4-5 hours.
+- Migration of process from SAS and Excel to Pandas in Python delivered approximately 10% decrease in code execution time on larger datasets.
+
 ## Projects
-  
-  
-### Personal Finances Dashboard
-[Finances Dashboard Link](https://www.mdpi.com/1424-8220/22/8/3048)
-<p align="justify">
-<ul>
-<li> Developed an interactive personal finance dashboard using PowerBI for real-time tracking of income, expenses, savings, and investments. </li>
-<li> Integrated data from multiple sources, including bank statements and investment accounts, ensuring accurate financial information. </li>
-<li> Designed advanced data visualizations and DAX calculations to analyze spending patterns and financial goals. </li>
-<li> Optimized dashboard performance and user experience through data modeling and intuitive navigation. </li>
-</ul>
-</p>
-  
-![Finance Dashboard pic](/assets/img/eeg_band_discovery.jpeg)
-  
-  
-  
-### Customer Churn Prediction 
-[Churn Link](https://www.mdpi.com/1424-8220/22/8/3048)
-<p align="justify">
-<ul>
-<li> Developed a machine learning model using Python to predict customer churn with an accuracy of 85%. </li>
-<li> Analyzed customer data from various sources, identifying key features influencing churn rates. </li>
-<li> Implemented data preprocessing techniques, including handling missing values and feature scaling, to improve model performance. </li>
-<li> Utilized data visualization tools to present insights and actionable recommendations to stakeholders, reducing churn by 10%. </li>
-</ul>
-</p>
-  
-![Churn pic](/assets/img/eeg_band_discovery.jpeg)
-  
-  
-  
+
+### Realtime Voting System
+[Realtime Voting System Github](https://github.com/DC0308/realtime-voting-system)  
+![Picture](path_to_your_image/example.png)
+
+- Developed real-time voting system with Docker Compose, Kafka, PySpark, Streamlit, and PostgreSQL, processing and visualizing data in real-time.
+- Utilized Kafka for 100% real-time data streaming and PySpark for instant data processing, ensuring accurate vote counts.
+- Created an interactive interface with Streamlit, allowing users to cast votes and view live results.
+- Containerized and managed all components using Docker Compose, ensuring seamless integration and deployment.
+
+### Bank Customer Churn Analysis
+[Github Link](https://github.com/DC0308/bank-churn-rate-analysis-powerbi/tree/main)
+[File Link](https://github.com/DC0308/bank-churn-rate-analysis-powerbi/blob/main/Customer%20Churn%20Analysis.pdf)
+![Churn](path_to_your_image/churn.png)
+
+- Developed and Deployed interactive Power BI dashboard for Customer Churn Analysis, visualizing key metrics and trends to identify factors influencing customer attrition.
+- Conducted extensive data cleaning and preprocessing, followed by descriptive and exploratory analysis to derive actionable insights from customer churn data.
+- Analyzed customer demographics, service usage patterns, and customer service interactions to provide strategic recommendations aimed at reducing churn rates and enhancing customer retention.
+
 ### Movie Recommender System
-[Link to Project](https://movie-recommender-dc.streamlit.app/)
-<p align="justify">
-<ul>
-<li> Developed a Python-based Movie Recommender System web app using Pandas, NumPy, scikit-learn, streamlit </li>
-<li> Implemented content-based recommendation algorithm to suggest 5 movies based on user input </li>
-<li> Utilized tags vectorization technique for feature extraction and personalized recommendations </li>
-</ul>
-</p>
-  
-![Movie Recommender Pic](/assets/img/eeg_band_discovery.jpeg)
-  
-  
-  
-### Uber Data Analysis 
-[Link to Project](https://www.mdpi.com/1424-8220/22/8/3048)
-<p align="justify">
-<ul>
-<li> Analyzed Uber New York data using Python and libraries like Pandas, NumPy, Matplotlib, and Plotly </li>
-<li> Identified various problem statements like rush hours, month-wise bookings etc to draw inferences </li>
-<li> Developed visually appealing charts and heat maps for effective data presentation </li>
-<li> Ensured data integrity through EDA, manipulation and preprocessing techniques on datasets </li>
-</ul>
-</p>
+[Github Link](https://github.com/DC0308/movie-recommender-system)
+[Application Link](https://movie-recommender-dc.streamlit.app/)
+![Movie Recommender](path_to_your_image/movie_recommender.png)
 
+- Developed a Python-based Movie Recommender System web app using Pandas, NumPy, scikit-learn, and Streamlit.
+- Implemented a content-based recommendation algorithm to suggest 5 movies based on user input.
+- Utilized tags vectorization technique for feature extraction and personalized recommendations.
 
-  
-![Uber Pic](/assets/img/eeg_band_discovery.jpeg)
+### Uber Data Analysis
+[Github Link](https://github.com/DC0308/Uber-Data-Analysis-using-Python/tree/main)
+[File Link](https://drive.google.com/file/d/1mHRD2WVQ2oPlR--xHZseTf5k6YnJKPPT/view?usp=sharing)
+![Uber](path_to_your_image/uber.png)
+
+- Analyzed Uber New York data using Python and libraries like Pandas, NumPy, Matplotlib, and Plotly.
+- Identified various problem statements like rush hours, month-wise bookings, etc., to draw inferences.
+- Developed visually appealing charts and heat maps for effective data presentation.
+- Ensured data integrity through EDA, manipulation, and preprocessing techniques on datasets.
+
+---
