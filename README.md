@@ -7,21 +7,21 @@
 - **Excel**
 - **Data Analysis**
 - **Machine Learning**
-<br>
-<br>
+
+
 ## Education
 **Bachelor of Technology**  
 Computers and Communication Engineering  
 Manipal University Jaipur (2020-2024)
-<br>
-<br>
+
+
 ## Internships
 
 ### AI Software Developer Intern @ Vaionex Corporation
 **January 2024 - Present**  
 - Recently started as an intern in the AI and Data Engineering team at a budding Google cloud partnered AI and Blockchain startup based out of New Jersey, USA.
 - Working on ComfyUI to test and create GUI-based Stable Diffusion image generation models.
-<br>
+  
 ### Marketing Analytics Intern @ SBI Card and Payments Services Ltd.
 **December 2020 - Present**  
 - Developed a Python solution to automate MID-TID Campaign Cashback calculations by taking input of defined macros through a config file to reduce manual work done by employees on Excel and SAS by 4-5 hours.
@@ -39,8 +39,8 @@ Manipal University Jaipur (2020-2024)
 - Utilized Kafka for 100% real-time data streaming and PySpark for instant data processing, ensuring accurate vote counts.
 - Created an interactive interface with Streamlit, allowing users to cast votes and view live results.
 - Containerized and managed all components using Docker Compose, ensuring seamless integration and deployment.
-<br>
-<br>
+
+
 ### Bank Customer Churn Analysis
 [Github Link](https://github.com/DC0308/bank-churn-rate-analysis-powerbi/tree/main)
 <br>
@@ -51,8 +51,8 @@ Manipal University Jaipur (2020-2024)
 - Developed and Deployed interactive Power BI dashboard for Customer Churn Analysis, visualizing key metrics and trends to identify factors influencing customer attrition.
 - Conducted extensive data cleaning and preprocessing, followed by descriptive and exploratory analysis to derive actionable insights from customer churn data.
 - Analyzed customer demographics, service usage patterns, and customer service interactions to provide strategic recommendations aimed at reducing churn rates and enhancing customer retention.
-<br>
-<br>
+
+
 ### Movie Recommender System
 [Github Link](https://github.com/DC0308/movie-recommender-system)
 <br>
@@ -63,16 +63,15 @@ Manipal University Jaipur (2020-2024)
 - Developed a Python-based Movie Recommender System web app using Pandas, NumPy, scikit-learn, and Streamlit.
 - Implemented a content-based recommendation algorithm to suggest 5 movies based on user input.
 - Utilized tags vectorization technique for feature extraction and personalized recommendations.
-<br>
-<br>
+
+
 ### Uber Data Analysis
 [Github Link](https://github.com/DC0308/Uber-Data-Analysis-using-Python/tree/main)
 <br>
 [File Link](https://drive.google.com/file/d/1mHRD2WVQ2oPlR--xHZseTf5k6YnJKPPT/view?usp=sharing)
 <br>
 ![Uber](path_to_your_image/uber.png)
-<br>
-<br>
+
 - Analyzed Uber New York data using Python and libraries like Pandas, NumPy, Matplotlib, and Plotly.
 - Identified various problem statements like rush hours, month-wise bookings, etc., to draw inferences.
 - Developed visually appealing charts and heat maps for effective data presentation.
